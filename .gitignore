@@ -1,0 +1,9 @@
+# Built application
+build
+
+# Built dependencies
+node_modules
+
+# IDEs
+.idea
+.vscode
